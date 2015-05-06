@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Buslocation</string>
+    <string name="mensagem">Bem vindo ao Dispositivo Buslocation,aperte CONECTAR para iniciar a localização:</string>
+    <string name="provedor">Provedor</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="conectar">Conectar</string>
+    <string name="desconectar">Sair</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
